@@ -1,2 +1,2 @@
-# pokus
+# pokus (čtvrtek)
 První repozitář
